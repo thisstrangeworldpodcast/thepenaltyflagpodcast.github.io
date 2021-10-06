@@ -2,9 +2,9 @@
 <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
     <channel>
         <language>en-US</language>
-        <copyright>Copyright 2021 Chris Ashe and Tony Smith</copyright>
+        <copyright>Copyright 2021 High Tops Media &amp; Chris Ashe, Tony Smith</copyright>
         <title>The Penalty Flag</title>
-        <description><![CDATA[<p>On "The Penalty Flag", Chris and Tony are going to be talking about the week that was, the week that will be, and every controversy on the gridiron.</p>
+        <description><![CDATA[<p>On "The Penalty Flag", Chris and Tony are going to be talking about the week that was, the week that will be, and every controversy on the gridiron. There may be some yelling involved and flags thrown. This isn’t your average sports debate show. The stakes have never been higher.</p>
 ]]></description>
         <link>https://www.thepenaltyflagpodcast.com/</link>
 		
@@ -14,7 +14,7 @@
             <itunes:category text='Football'/>
         </itunes:category>
 		
-		<itunes:author>Chris Ashe and Tony Smith</itunes:author>
+		<itunes:author>High Tops Media &amp; Chris Ashe, Tony Smith</itunes:author>
         <itunes:owner>
             <itunes:name>This Strange World Podcast Administrator</itunes:name>
             <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
@@ -27,7 +27,7 @@
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_00_Trailer1.mp3' length='1210565' type='audio/mpeg'/>
 			<guid>2021-10-06-Trailer1</guid>
             <pubDate>Wed, 06 Oct 2021 01:30:00 -0400</pubDate>
-            <description><![CDATA[<p>On “The Penalty Flag”, Chris and Tony are going to be talking about the week that was, the week that will be, and every controversy on the gridiron.</p>
+            <description><![CDATA[<p>On “The Penalty Flag”, Chris and Tony are going to be talking about the week that was, the week that will be, and every controversy on the gridiron. There may be some yelling involved and flags thrown. This isn’t your average sports debate show. The stakes have never been higher.</p>
 ]]></description>
             <itunes:duration>50</itunes:duration>
             <link>https://www.thepenaltyflagpodcast.com/2021/10/06/Trailer1/</link>
