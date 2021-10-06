@@ -8,7 +8,7 @@
 ]]></description>
         <link>https://www.thepenaltyflagpodcast.com/</link>
 		
-        <itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.jpg'/>
+        <itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
         
 		<itunes:category text='Sports'>
             <itunes:category text='Football'/>
@@ -31,7 +31,7 @@
 ]]></description>
             <itunes:duration>50</itunes:duration>
             <link>https://www.thepenaltyflagpodcast.com/2021/10/06/Trailer1/</link>
-			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.jpg'/>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
             <itunes:explicit>false</itunes:explicit>
 			
 			<itunes:episode>0</itunes:episode>
