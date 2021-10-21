@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 6: King Henry Reclaims The Throne</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_03_Week-6.mp3' length='85575660' type='audio/mpeg'/>
+			<guid>2021-10-21-Week-6</guid>
+            <pubDate>Thu, 21 Oct 2021 00:30:00 -0400</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss the fourth down call for the Bills, is it panic time for the Browns, and is Trevon Diggs DPOY? All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3565</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2021/10/21/Week-6/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 5: Missed Kicks, Comebacks, and a new Top QB?</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_02_Week-5.mp3' length='103693691' type='audio/mpeg'/>
 			<guid>2021-10-14-Week-5</guid>
