@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 7: Chasing The Top</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_04_Week-7.mp3' length='102064234' type='audio/mpeg'/>
+			<guid>2021-10-28-Week-7</guid>
+            <pubDate>Thu, 28 Oct 2021 02:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss if the Chiefs can make the playoffs, who can fix the Panthers, and the Bengals’ surprisingly hot start. All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>4252</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2021/10/28/Week-7/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 6: King Henry Reclaims The Throne</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_03_Week-6.mp3' length='85575660' type='audio/mpeg'/>
 			<guid>2021-10-21-Week-6</guid>
