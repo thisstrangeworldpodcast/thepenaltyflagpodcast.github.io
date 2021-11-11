@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 9: Alter Egos</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_06_Week-9.mp3' length='92326636' type='audio/mpeg'/>
+			<guid>2021-11-11-Week-9</guid>
+            <pubDate>Thu, 11 Nov 2021 01:30:00 -0500</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss one of the wildest weeks of the NFL season, where division leaders are in jeopardy, dark horses rise, and many teams change their identity. All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3846</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2021/11/11/Week-9/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>6</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 8: Any Given Sunday</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_05_Week-8.mp3' length='91697568' type='audio/mpeg'/>
 			<guid>2021-11-05-Week-8</guid>
