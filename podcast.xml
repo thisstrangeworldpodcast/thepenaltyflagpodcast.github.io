@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 11: Division Shake Up</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_08_Week-11.mp3' length='124336007' type='audio/mpeg'/>
+			<guid>2021-11-25-Week-11</guid>
+            <pubDate>Thu, 25 Nov 2021 03:00:00 -0500</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss the collapse of the Bills, the rise of the Vikings, and the possible dark horse who can change everything. All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>5180</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2021/11/25/Week-11/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 10: They're Baaaaack</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_07_Week-10.mp3' length='106585846' type='audio/mpeg'/>
 			<guid>2021-11-18-Week-10</guid>
