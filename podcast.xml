@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 14: House of Cards</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_10_Week-14.mp3' length='94908035' type='audio/mpeg'/>
+			<guid>2021-12-18-Week-14</guid>
+            <pubDate>Sat, 18 Dec 2021 15:00:00 -0500</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss if the Bills should panic, the firing of Urban Meyer, and the shakeup in the NFC. All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3954</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2021/12/18/Week-14/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>10</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 13: The Wind Bowl</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_09_Week-13.mp3' length='98894376' type='audio/mpeg'/>
 			<guid>2021-12-11-Week-13</guid>
