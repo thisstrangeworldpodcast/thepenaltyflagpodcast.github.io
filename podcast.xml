@@ -23,6 +23,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 2: Welcome Back Football</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S02_01_Week-2.mp3' length='83953077' type='audio/mpeg'/>
+			<guid>2022-09-18-Week-2</guid>
+            <pubDate>Sun, 18 Sep 2022 00:30:00 -0400</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss the Cowboys season after Dak Prescott’s injury, the Offensive Coordinator situation for the Patriots, and our “way to early” Super Bowl predictions. All this and more, on the Season 2 premiere of The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3497</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2022/09/18/Week-2/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Super Bowl LVI</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S01_16_Super-Bowl-LVI.mp3' length='52386421' type='audio/mpeg'/>
 			<guid>2022-02-13-Super-Bowl-LVI</guid>
