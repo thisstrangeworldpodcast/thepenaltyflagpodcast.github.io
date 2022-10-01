@@ -23,6 +23,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 3: The Butt Punt</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S02_02_Week-3.mp3' length='84205474' type='audio/mpeg'/>
+			<guid>2022-10-01-Week-3</guid>
+            <pubDate>Sat, 01 Oct 2022 09:30:00 -0400</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss the hot starts for the Jaguars and Eagles, the abysmal start to the Raiders season, and which team under .500 we think has the best chance to bounce back. All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3513</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2022/10/01/Week-3/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 2: Welcome Back Football</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S02_01_Week-2.mp3' length='83953077' type='audio/mpeg'/>
 			<guid>2022-09-18-Week-2</guid>
