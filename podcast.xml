@@ -23,6 +23,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 4: The Turning Point</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S02_03_Week-4.mp3' length='91070816' type='audio/mpeg'/>
+			<guid>2022-10-06-Week-4</guid>
+            <pubDate>Thu, 06 Oct 2022 01:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss the QB controversy in Dallas, the close race in the NFC East, and how far can this Lions team go? All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3799</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2022/10/06/Week-4/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 3: The Butt Punt</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S02_02_Week-3.mp3' length='84205474' type='audio/mpeg'/>
 			<guid>2022-10-01-Week-3</guid>
