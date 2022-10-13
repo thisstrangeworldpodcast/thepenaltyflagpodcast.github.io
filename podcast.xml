@@ -23,6 +23,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Week 5: Screw the Analytics</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S02_04_Week-5.mp3' length='75997491' type='audio/mpeg'/>
+			<guid>2022-10-13-Week-5</guid>
+            <pubDate>Thu, 13 Oct 2022 10:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This week, Chris and Tony discuss the roughing the passer penalty, the new wave aggressiveness of football analytics, and the potential fire sale in Carolina. All this and more, only on The Penalty Flag.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/thepenaltyflagpodcast/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3170</itunes:duration>
+            <link>https://www.thepenaltyflagpodcast.com/2022/10/13/Week-5/</link>
+			<itunes:image href='https://www.thepenaltyflagpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Week 4: The Turning Point</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TPF/TPF_S02_03_Week-4.mp3' length='91070816' type='audio/mpeg'/>
 			<guid>2022-10-06-Week-4</guid>
